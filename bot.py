@@ -306,7 +306,7 @@ async def check_card_specific_site(card, site, user_id=None):
                 proxy_str = f"{ip}:{port}"
         
         # Build API URL with new endpoint
-        url = f'http://162.217.248.95:8000/?gate=autoshopii&key=BlackxCard&cc={card}&site={site}'
+        url = f'https://shopii-hdiy.onrender.com/shopify?cc={card}&site={site}'
         if proxy_str:
             url += f'&proxy={proxy_str}'
         
