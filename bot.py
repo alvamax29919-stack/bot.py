@@ -228,7 +228,7 @@ async def check_card_random_site(card, sites, user_id=None):
                 proxy_str = f"{ip}:{port}"
         
         # Build API URL with new endpoint
-        url = f'https://shopii-hdiy.onrender.com/shopify?site={selected_site}&cc={card}'
+        url = f'https://shopii-hdiy.onrender.com/shopify?cc={card}&site={selected_site}'
         if proxy_str:
             url += f'&proxy={proxy_str}'
         
