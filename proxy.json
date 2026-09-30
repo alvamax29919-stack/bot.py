@@ -1,0 +1,46 @@
+{
+    "8282590689": [
+        {
+            "ip": "px460101.pointtoserver.com",
+            "port": "10780",
+            "username": "purevpn0s8732217",
+            "password": "i67s60ep",
+            "proxy_url": "http://purevpn0s8732217:i67s60ep@px460101.pointtoserver.com:10780",
+            "type": "http"
+        }
+    ],
+    "6927328940": [
+        {
+            "ip": "px031901.pointtoserver.com",
+            "port": "10780",
+            "username": "purevpn0s8732217",
+            "password": "i67s60ep",
+            "proxy_url": "http://purevpn0s8732217:i67s60ep@px031901.pointtoserver.com:10780",
+            "type": "http"
+        },
+        {
+            "ip": "px100802.pointtoserver.com",
+            "port": "10780",
+            "username": "purevpn0s8732217",
+            "password": "i67s60ep",
+            "proxy_url": "http://purevpn0s8732217:i67s60ep@px100802.pointtoserver.com:10780",
+            "type": "http"
+        },
+        {
+            "ip": "px490402.pointtoserver.com",
+            "port": "10780",
+            "username": "purevpn0s8732217",
+            "password": "i67s60ep",
+            "proxy_url": "http://purevpn0s8732217:i67s60ep@px490402.pointtoserver.com:10780",
+            "type": "http"
+        },
+        {
+            "ip": "23.95.239.230",
+            "port": "12345",
+            "username": "tickets",
+            "password": "proxyon145",
+            "proxy_url": "http://tickets:proxyon145@23.95.239.230:12345",
+            "type": "http"
+        }
+    ]
+}

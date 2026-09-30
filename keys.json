@@ -1,0 +1,41 @@
+{
+    "705D3A9TF66Y": {
+        "days": 1,
+        "created_at": "2026-02-22T20:23:03.104333",
+        "used": true,
+        "used_by": 6927328940,
+        "used_at": "2026-02-22T20:23:10.143258"
+    },
+    "UA5J67E4BLSA": {
+        "days": 1,
+        "created_at": "2026-02-22T20:23:03.104404",
+        "used": false,
+        "used_by": null
+    },
+    "54OXPXB5M4WV": {
+        "days": 1,
+        "created_at": "2026-02-22T20:23:03.104446",
+        "used": false,
+        "used_by": null
+    },
+    "AJDZD9E3R3LA": {
+        "days": 1,
+        "created_at": "2026-02-22T20:23:03.104481",
+        "used": false,
+        "used_by": null
+    },
+    "QPMSTW2KCMJP": {
+        "days": 5,
+        "created_at": "2026-02-23T13:55:33.282541",
+        "used": true,
+        "used_by": 8282590689,
+        "used_at": "2026-02-23T13:55:43.033359"
+    },
+    "PBWEEA89JXNB": {
+        "days": 100,
+        "created_at": "2026-02-23T20:56:49.415334",
+        "used": true,
+        "used_by": 6927328940,
+        "used_at": "2026-02-23T20:56:58.425402"
+    }
+}
